@@ -8,3 +8,11 @@ body {
 	width: 75%;
 	background-color: white;
 }
+
+#entete {
+	border-bottom: 3px solid black; 
+}
+
+footer {
+	border-top: 3px solid black; 
+}
