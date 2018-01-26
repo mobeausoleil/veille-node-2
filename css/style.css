@@ -47,7 +47,7 @@ main {
   display: flex;
   flex: row nowrap;
   justify-content: center;
-  background-color: #778899;
+  background-color: #A9A9A9;
 }
 h2,
 h1 {
