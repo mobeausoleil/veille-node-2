@@ -26,6 +26,10 @@ li {
   height: 100%;
   margin-top: 0px;
 }
+#entete h1,
+h2 {
+  color: white;
+}
 footer {
   border-top: 3px solid black;
   font-size: 0.7em;
