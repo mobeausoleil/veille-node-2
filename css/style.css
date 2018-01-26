@@ -1,5 +1,6 @@
 body {
-  background-color: #54e8e6;
+  background-image: url(../images/grumpy.jpg);
+  background-size: 100%;
   font-family: 'Anton', sans-serif;
 }
 a {
