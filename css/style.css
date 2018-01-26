@@ -22,14 +22,23 @@ li {
 footer {
   border-top: 3px solid black;
   font-size: 0.7em;
+  background-color: #696969;
+  height: 100%;
 }
 footer p {
   text-align: center;
+}
+footer a {
+  font-size: 0.8em;
+  color: #DCDCDC;
 }
 main {
   display: flex;
   flex: row nowrap;
   justify-content: center;
+}
+h2 {
+  text-align: center;
 }
 #navGlobal {
   width: 100%;
