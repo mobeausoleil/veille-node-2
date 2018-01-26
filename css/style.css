@@ -1,6 +1,12 @@
 body {
   background-color: grey;
 }
+a {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}
 #principal {
   border: 3px solid black;
   margin: 0 auto;
@@ -12,4 +18,16 @@ body {
 }
 footer {
   border-top: 3px solid black;
+}
+main {
+  display: flex;
+  flex: row nowrap;
+  justify-content: center;
+}
+#navGlobal {
+  width: 100%;
+}
+#navGlobal ul {
+  display: flex;
+  justify-content: space-around;
 }
