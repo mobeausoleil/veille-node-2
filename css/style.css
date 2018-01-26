@@ -7,6 +7,9 @@ a {
   text-decoration: none;
   color: black;
 }
+a:hover {
+  color: white;
+}
 li {
   list-style-type: none;
 }
@@ -37,11 +40,13 @@ main {
   flex: row nowrap;
   justify-content: center;
 }
-h2 {
+h2,
+h1 {
   text-align: center;
 }
 #navGlobal {
   width: 100%;
+  border-top: 3px solid black;
 }
 #navGlobal ul {
   display: flex;
