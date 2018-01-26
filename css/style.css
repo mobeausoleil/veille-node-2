@@ -8,7 +8,7 @@ a {
   color: black;
 }
 a:hover {
-  color: white;
+  color: grey;
 }
 li {
   list-style-type: none;
