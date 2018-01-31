@@ -48,6 +48,7 @@ main {
   justify-content: center;
   background-color: #A9A9A9;
   font-family: 'Lobster', cursive;
+  font-size: 1.2em;
 }
 main div {
   border-bottom: 3px solid black;
