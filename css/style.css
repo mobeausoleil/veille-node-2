@@ -58,6 +58,10 @@ main div {
 main div:last-of-type {
   border-bottom: none;
 }
+main div img {
+  width: 30%;
+  height: 30%;
+}
 h2,
 h1 {
   text-align: center;
