@@ -21,14 +21,13 @@ li {
 }
 #entete {
   border-bottom: 3px solid black;
-  background-image: url(../images/code.jpg);
-  background-size: 100%;
+  background-color: white;
   height: 100%;
   margin-top: 0px;
 }
 #entete h1,
 #entete h2 {
-  color: white;
+  color: black;
 }
 footer {
   border-top: 3px solid black;
