@@ -47,6 +47,7 @@ main {
   flex: row nowrap;
   justify-content: center;
   background-color: #A9A9A9;
+  font-family: 'Lobster', cursive;
 }
 main div {
   border-bottom: 3px solid black;
